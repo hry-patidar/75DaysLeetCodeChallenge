@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/hry-patidar/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
